@@ -1,4 +1,4 @@
-package strategy.encapsulatedSpecies;
+package behavior.strategy.encapsulatedSpecies;
 
 //A behavior that all species classes implement
 public interface Species {

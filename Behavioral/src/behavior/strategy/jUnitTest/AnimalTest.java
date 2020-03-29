@@ -1,14 +1,14 @@
-package strategy.jUnitTest;
+package behavior.strategy.jUnitTest;
 
 import org.junit.jupiter.api.Test;
 
-import strategy.Animal;
-import strategy.Cat;
-import strategy.Dog;
-import strategy.Duck;
-import strategy.Human;
-import strategy.encapsulatedSoundBehavior.Talk;
-import strategy.encapsulatedWalkingBehavior.Mittens;
+import behavior.strategy.Animal;
+import behavior.strategy.Cat;
+import behavior.strategy.Dog;
+import behavior.strategy.Duck;
+import behavior.strategy.Human;
+import behavior.strategy.encapsulatedSoundBehavior.Talk;
+import behavior.strategy.encapsulatedWalkingBehavior.Mittens;
 
 class AnimalTest {
 	

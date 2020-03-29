@@ -1,8 +1,8 @@
-package strategy;
+package behavior.strategy;
 
-import strategy.encapsulatedSoundBehavior.Meow;
-import strategy.encapsulatedSpecies.Feline;
-import strategy.encapsulatedWalkingBehavior.Mittens;
+import behavior.strategy.encapsulatedSoundBehavior.Meow;
+import behavior.strategy.encapsulatedSpecies.Feline;
+import behavior.strategy.encapsulatedWalkingBehavior.Mittens;
 
 public class Cat extends Animal{
 	

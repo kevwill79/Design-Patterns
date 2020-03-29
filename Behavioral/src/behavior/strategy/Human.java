@@ -1,8 +1,8 @@
-package strategy;
+package behavior.strategy;
 
-import strategy.encapsulatedSoundBehavior.Talk;
-import strategy.encapsulatedSpecies.Homosapien;
-import strategy.encapsulatedWalkingBehavior.Feet;
+import behavior.strategy.encapsulatedSoundBehavior.Talk;
+import behavior.strategy.encapsulatedSpecies.Homosapien;
+import behavior.strategy.encapsulatedWalkingBehavior.Feet;
 
 public class Human extends Animal{
 	

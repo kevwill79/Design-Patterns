@@ -1,8 +1,8 @@
-package strategy;
+package behavior.strategy;
 
-import strategy.encapsulatedSoundBehavior.Bark;
-import strategy.encapsulatedSpecies.Canine;
-import strategy.encapsulatedWalkingBehavior.Paws;
+import behavior.strategy.encapsulatedSoundBehavior.Bark;
+import behavior.strategy.encapsulatedSpecies.Canine;
+import behavior.strategy.encapsulatedWalkingBehavior.Paws;
 
 public class Dog extends Animal{
 	

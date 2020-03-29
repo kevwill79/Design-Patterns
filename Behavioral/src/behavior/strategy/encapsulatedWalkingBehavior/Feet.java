@@ -1,4 +1,4 @@
-package strategy.encapsulatedWalkingBehavior;
+package behavior.strategy.encapsulatedWalkingBehavior;
 
 public class Feet implements WalkingBehavior{
 	

@@ -1,4 +1,4 @@
-package strategy.encapsulatedSpecies;
+package behavior.strategy.encapsulatedSpecies;
 
 public class Homosapien implements Species{
 	

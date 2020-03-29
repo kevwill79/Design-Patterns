@@ -1,4 +1,4 @@
-package strategy.encapsulatedSoundBehavior;
+package behavior.strategy.encapsulatedSoundBehavior;
 
 public class Meow implements SoundBehavior{
 	

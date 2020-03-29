@@ -1,8 +1,8 @@
-package strategy;
+package behavior.strategy;
 
-import strategy.encapsulatedSoundBehavior.SoundBehavior;
-import strategy.encapsulatedSpecies.Species;
-import strategy.encapsulatedWalkingBehavior.WalkingBehavior;
+import behavior.strategy.encapsulatedSoundBehavior.SoundBehavior;
+import behavior.strategy.encapsulatedSpecies.Species;
+import behavior.strategy.encapsulatedWalkingBehavior.WalkingBehavior;
 
 public abstract class Animal {
 	

@@ -1,7 +1,7 @@
-package strategy;
+package behavior.strategy;
 
-import strategy.encapsulatedSoundBehavior.Talk;
-import strategy.encapsulatedWalkingBehavior.Paws;
+import behavior.strategy.encapsulatedSoundBehavior.Talk;
+import behavior.strategy.encapsulatedWalkingBehavior.Paws;
 
 public class AnimalSimulator {
 	

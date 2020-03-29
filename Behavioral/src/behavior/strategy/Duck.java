@@ -1,8 +1,8 @@
-package strategy;
+package behavior.strategy;
 
-import strategy.encapsulatedSoundBehavior.Quack;
-import strategy.encapsulatedSpecies.WaterFowl;
-import strategy.encapsulatedWalkingBehavior.WebbedFeet;
+import behavior.strategy.encapsulatedSoundBehavior.Quack;
+import behavior.strategy.encapsulatedSpecies.WaterFowl;
+import behavior.strategy.encapsulatedWalkingBehavior.WebbedFeet;
 
 public class Duck extends Animal{
 	
