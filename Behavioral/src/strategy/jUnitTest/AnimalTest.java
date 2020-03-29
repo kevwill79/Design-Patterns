@@ -1,9 +1,5 @@
 package strategy.jUnitTest;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertSame;
-import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
 
 import strategy.Animal;
@@ -11,11 +7,8 @@ import strategy.Cat;
 import strategy.Dog;
 import strategy.Duck;
 import strategy.Human;
-import strategy.encapsulatedSoundBehavior.SoundBehavior;
 import strategy.encapsulatedSoundBehavior.Talk;
-import strategy.encapsulatedSpecies.Species;
 import strategy.encapsulatedWalkingBehavior.Mittens;
-import strategy.encapsulatedWalkingBehavior.WalkingBehavior;
 
 class AnimalTest {
 	
