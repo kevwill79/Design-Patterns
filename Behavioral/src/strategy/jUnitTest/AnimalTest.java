@@ -31,22 +31,3 @@ class AnimalTest {
 		duck.setWalkingBehavior(new Mittens());
 	}
 }
-
-/*@Test
-void testAnimal() {
-SoundBehavior sb;
-WalkingBehavior wb;
-Species s;
-
-Animal cat = new Cat();
-Animal dog = new Dog();
-Animal Duck = new Duck();
-Animal Human = new Human();
-}
-
-@Test
-void test() {
-assertNotNull(cat);
-assertNotSame(cat, dog);
-
-}*/
