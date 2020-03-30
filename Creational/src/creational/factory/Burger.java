@@ -18,8 +18,11 @@ public abstract class Burger {
 	
 	void prepareBurger() {
 		System.out.println("You ordered a " + burgerType + " on " 
-							+ bunType + " buns");
-		System.out.println();
+							+ bunType + " buns.");
+		
+		System.out.println("With ");
+		for(String i: condiments)
+			System.out.print(i + " ");
 	}
 	
 	public String getBurgerType() {
@@ -32,6 +35,10 @@ public abstract class Burger {
 	
 	public ArrayList<String> getCondiments() {
 		return condiments;
+	}
+	
+	public void setBurgerType(String burgerType) {
+		this.bunType = burgerType;
 	}
 }
 
